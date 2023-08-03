@@ -10,7 +10,7 @@
 #define BOARD_ID "SAMD21E18A-PicoPlanet-v0"
 
 #define USB_VID 0x239A
-#define USB_PID 0x001E
+#define USB_PID 0x00C1
 
 #define LED_PIN PIN_PA05
 
